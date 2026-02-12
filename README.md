@@ -43,3 +43,13 @@ Group Academic Project
 - Implemented intrusion detection logic
 - Testing and debugging of the system
 
+## Project Images
+
+### Project Setup
+![Setup](project-setup.jpg)
+
+### Beam Detection
+![Beam](beam-detection.jpg)
+
+### Alarm Triggered
+![Alarm](alarm-triggered.jpg)
